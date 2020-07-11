@@ -1,0 +1,27 @@
+//////// Trabalho LIE - Engenharia Biomédica, Eletrónica médica \\\\\\\\\\\\
+
+-> Para iniciar o código é só necessário correr o file main.cpp.
+
+-> Inserir a diretoria da pasta DRIVE.
+
+-> Digitar 1 ou 2, para training ou test, conforme dito na linha de comandos. 
+
+-> Inserir o numero da imagem.
+         // Atenção - Inserir sempre dois dígitos, e.g. 01, 03, 10, 15 - \\
+
+    // Atenção - O programa está pré-definido para trabalhar com imagens .tif e .png - \\
+
+-> Inserir todos os valores requeridos pelo programa, nenhum valor está 
+predefinido. O utilizador tem controlo total sobre os valores utilizados.
+
+-> Esperar que o programa corra.
+
+-> Escolher os opcionais.
+
+-> Para inserir uma nova imagem, basta escolher "y" quando o programa 
+questiona "Try again?".
+
+-> As imagens e ficheiros ficarão guardados na diretoria escolhida consoante 
+o nome que aparece na linha de comandos.
+
+          ///////// Sara Cerqueira & Simão Santos \\\\\\\\\\\\

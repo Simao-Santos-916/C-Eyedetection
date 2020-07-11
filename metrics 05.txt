@@ -1,0 +1,12 @@
+--------------------------------
+True positives:  22261
+True negatives:  182371
+False positives: 9498
+False negatives: 8470
+--------------------------------
+Accuracy:    91.9281
+Sensitive:   72.4383
+Specificity: 95.0497
+--------------------------------
+Program made by:                
+Sara Cerqueira and Simão Santos
